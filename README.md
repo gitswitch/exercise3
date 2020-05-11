@@ -9,7 +9,7 @@ with
 ```
 loop: [ 'apache2', 'default-mysql-server', 'python3-pymysql', 'php', 'php-mysql', 'libapache2-mod-php' ]
 ```
-I stuck with this error:
+I am stuck in this error:
 ```
 unable to connect to database, check login_user and login_password are correct or /root/.my.cnf has the credentials. Exception message: (1698, u\"Access denied for user 'root'@'localhost'\")"} 
 
